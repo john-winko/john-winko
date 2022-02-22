@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @john-winko a (soon to be) retired Navy veteran breaking into the software development field. 
-- 👀 As a hobbyist, I have previously coded in C++, C#, Java, and Python but am currently focusing on .Net and soon will attend a bootcamp for JS/Python/React/Django
+- 👋 Hi, I’m @john-winko a retired Navy veteran breaking into the software development field. 
+- 👀 Experience with C++, C# (.Net), Java, and Python and currently attending a bootcamp for JS/Python/React/Django
 - 💞️ I’m looking to collaborate on anything mainstream development related to help build out my portfolio
 - 📫 How to reach me: john.winko@gmail.com
 
