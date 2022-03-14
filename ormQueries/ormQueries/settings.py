@@ -78,6 +78,8 @@ WSGI_APPLICATION = 'ormQueries.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
+        'USER': "dev",
+        'PASSWORD': "dev123",
         'NAME': 'ormQueries',
     }
 }
